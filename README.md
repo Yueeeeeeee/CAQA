@@ -32,7 +32,7 @@ To run our code you need PyTorch & Transformers, see requirements.txt for our ru
 
 ## Train QAGen-T5 Generation Model
 
-Our QAGen-T5 model consists of a question generation model and an answer generation model, we train our models with [question_generation](https://github.com/patil-suraj/question_generation) and we provide all generated synthetic data [here](https://drive.google.com/drive/folders/1SMenUtsquhGUrtBU3MjITHNZLAw5ZrAX?usp=sharing)
+Our QAGen-T5 model consists of a question generation model and an answer generation model, we train our models with [question_generation](https://github.com/patil-suraj/question_generation) and we provide all generated synthetic data [here](https://drive.google.com/drive/folders/1RvYkKvlzhIDZQybP8q9L5wnXJ_PgxtEv?usp=sharing)
 
 
 ## Train BERT-QA with Contrastive Adaptation Loss
